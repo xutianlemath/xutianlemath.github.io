@@ -23,7 +23,7 @@ My research interest includes numerical analysis, numerical optimization, invers
 
 It is my great honor to have Professor LV Xiliang to be my undergraduate research mentor in computational math. Nowadays we are working on numerical analytic continuation and its application in solving Cauchy Inverse Problem.
 
-If you have anything you want to share with me, feel free to email [xtl_math@whu.edu.cn](xtl_math@whu.edu.cn)
+If you have anything you want to share with me, feel free to email [xtl_math@whu.edu.cn](mailto:xtl_math@whu.edu.cn)
 
 # 🔥 News
 Coming PhD at Wuhan University in Computational Math!!!
