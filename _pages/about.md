@@ -21,8 +21,9 @@ My name is XuTianle, a third year undergraduate student from [Math Department](h
 
 My research interest includes numerical analysis, numerical optimization, inverse problem and anything related to computational and applied math. 
 
-It is my grear honor to have Professor LV Xiliang to be my undergraduate research mentor in computational math. Nowadays we are working on numerical analytic continuation and its application in solving Cauchy Inverse Problem.
+It is my great honor to have Professor LV Xiliang to be my undergraduate research mentor in computational math. Nowadays we are working on numerical analytic continuation and its application in solving Cauchy Inverse Problem.
 
+If you have anything you want to share with me, feel free to email me.
 
 # 🔥 News
 Coming PhD at Wuhan University in Computational Math!!!
