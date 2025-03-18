@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "XU Tianle"
-description              : "A third year undergraduate major in computational math in Wuhan University "
+description              : "A fourth year undergraduate major in computational math in Wuhan University "
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "xutianlemath"
   google_plus      :
   keybase          :
   instagram        :
