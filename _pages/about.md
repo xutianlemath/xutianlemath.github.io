@@ -17,9 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is XuTianle, a third year undergraduate student from [Math Department](https://maths.whu.edu.cn/), [Wuhan University](https://whu.edu.cn/). I'm major in mathematics and Applied Mathematics in [Honor College](https://hyxt.whu.edu.cn/).
+My name is XuTianle, a fourth year undergraduate student from [Math Department](https://maths.whu.edu.cn/), [Wuhan University](https://whu.edu.cn/). I'm major in mathematics and Applied Mathematics in [Honor College](https://hyxt.whu.edu.cn/).
 
 My research interest includes numerical analysis, numerical optimization, inverse problem and anything related to computational and applied math. 
+Nowadays I try to learn irrational numbers' application in different numerical algorithms.
 
 It is my great honor to have Professor LV Xiliang to be my undergraduate research mentor in computational math. Nowadays we are working on numerical analytic continuation and its application in solving Cauchy Inverse Problem.
 
